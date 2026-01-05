@@ -35,5 +35,5 @@ The mod treats every new **"Drop"** as a new minor update (1.x).
 This allows you to play the latest updates while keeping the nostalgic version numbers you are used to.
 
 <div align="center">
-    <img src=".github/assets/screen.png" height="192" alt="screen">
+    <img src=".github/assets/screen.png" alt="screen">
 </div>
