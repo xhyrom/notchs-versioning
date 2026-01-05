@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "dev.xhyrom.nv.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [],
+  "mixins": [
+    "SharedConstantsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
